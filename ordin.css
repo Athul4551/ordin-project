@@ -1,0 +1,35 @@
+.navi{
+    background-color: rgb(247, 244, 244);
+    color: rgb(26, 24, 24);
+    display: flex;
+    justify-content: space-between;
+    /* position: fixed;  */
+
+}
+.left{
+    display: flex;
+    margin-top: 40px;
+    margin-right: 500px;
+    font-size: 15px;
+}
+.left div{
+    margin: 0 20px;
+    justify-content: center;
+}
+.search{
+    margin-top: 40px;
+    border-style: inherit;
+    border-color: rgb(59, 58, 58);
+}
+.log{
+    margin-left: 200px;
+    height: 50px;
+    width: 300px;
+}
+.move{
+    width: 100%;
+    height: 100%;
+}
+.ele{
+    font-size: 10px;
+}
